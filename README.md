@@ -1,6 +1,6 @@
 # watchog
 
-This is the repo for the code of submission 215: Watchog: A Light-weight Contrastive Learning based Framework for Table Understanding.
+This is the repo for the code of Watchog: A Light-weight Contrastive Learning based Framework for Table Understanding.
 
 # Run fine-tuning with contrastive learning
 
